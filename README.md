@@ -1,14 +1,4 @@
-# Roy Akash&mdash;@theroyakash 👋
-
-</a>
-<a href="https://twitter.com/theroyakash">
-  <img align="left" alt="theroyakash on twitter | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/TXQyQYa">
-  <img align="left" alt="theroyakash's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
-
-<br />
+# Roy Akash&mdash;@theroyakash 👋🏽
 
 I, theroyakash is also known as The Roy Akash (born August 28, 1999) am a **self-taught** Research [Scientist](https://g.co/kgs/zzwfzC), with research in autonomous vehicles, safe computer vision systems with Deep Learning, podcast host, Machine Learning Engineer and also an iOS software developer buliding apps that teaches how to make AI to all, making computer vision research that doesn't discriminate and beyond. I am the founder of DeepNet Research, an AI company.
 
@@ -34,9 +24,7 @@ I am the author of several popular books in the fields of algorithms and compute
 <code><img height="20" src="https://avatars1.githubusercontent.com/u/28029853?s=280&v=4"></code>
 
 ## ☕️ Wanna Chat?
-- Twitter: https://twitter.com/theroyakash
-- Personal site: https://iamroyakash.com/
-- IG: https://instagram.com/theroyakash
-- Join my discord [here](https://discord.gg/TXQyQYa)
-- Or just send a message [here](https://www.iamroyakash.com/contact)
+- 👉🏽 @ me on [Twitter](https://twitter.com/theroyakash) about anything.<br>
+- IG: https://instagram.com/theroyakash<br>
+- Join my discord [here](https://discord.gg/TXQyQYa) or just send a message [here](https://www.iamroyakash.com/contact)
 
