@@ -11,8 +11,8 @@ I am the author of several popular books in the fields of algorithms and compute
 
 ## Values
 - 🥽 Building safe AI systems<br>
-- 🌟 Authentic safe AI systems that doesn't discriminate<br>
-- 🍏 Beginner's mindset and curiosity<br>
+- 🌟 Authentic AI systems that doesn't discriminate<br>
+- 🍏 Curiosity<br>
 - 🙌 Shared norms<br>
 - 🚀 Elevate the underrepresented
 
