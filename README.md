@@ -23,7 +23,7 @@ I am the author of several popular books in the fields of algorithms and compute
 <code><img height="20" src="https://developer.apple.com/library/archive/documentation/ToolsLanguages/Conceptual/Xcode_Overview/Art/XcodeIcon_2x.png"></code>
 <code><img height="20" src="https://avatars1.githubusercontent.com/u/28029853?s=280&v=4"></code>
 
-## ☕️ Wanna Chat?
+## ☕️ Wanna chat?
 - 👉🏽 @ me on [Twitter](https://twitter.com/theroyakash) about anything.<br>
 - IG: https://instagram.com/theroyakash<br>
 - Join my discord [here](https://discord.gg/TXQyQYa) or just send a message [here](https://www.iamroyakash.com/contact)
