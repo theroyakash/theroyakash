@@ -1,6 +1,6 @@
 # Roy Akash&mdash;@theroyakash 👋🏽
 
-theroyakash is also known as The Roy Akash (born August 28, 1999) am a **self-taught** research [scientist](https://g.co/kgs/zzwfzC), with research in autonomous vehicles, safe computer vision systems, intelligent human-computer interaction and beyond. I am the founder of DeepNet Research, an AI company.
+theroyakash is also known as The Roy Akash (born August 28, 1999) is a **self-taught** research [scientist](https://g.co/kgs/zzwfzC), with research in autonomous vehicles, safe computer vision systems, intelligent human-computer interaction and beyond. He is the founder of DeepNet Research, an AI company.
 
 ## What I'm doing?
 - 🔭 I’m currently working on Deep Learning Research focusing on Computer Vision.
