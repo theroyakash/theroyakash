@@ -13,8 +13,7 @@ I am the author of several popular books in the fields of algorithms and compute
 - 🥽 Building safe AI systems<br>
 - 🌟 Authentic AI systems that doesn't discriminate<br>
 - 🍏 Curiosity<br>
-- 🙌 Shared norms<br>
-- 🚀 Elevate the underrepresented
+- 🙌 Shared norms
 
 ### I use the following Languages and Tools:
 
@@ -27,4 +26,3 @@ I am the author of several popular books in the fields of algorithms and compute
 - 👉🏽 @ me on [Twitter](https://twitter.com/theroyakash) about anything.<br>
 - IG: https://instagram.com/theroyakash<br>
 - Join my discord [here](https://discord.gg/TXQyQYa) or just send a message [here](https://www.iamroyakash.com/contact)
-
