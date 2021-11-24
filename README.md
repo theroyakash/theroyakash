@@ -11,6 +11,6 @@ I am the author of several popular books in the fields of algorithms and compute
 ## ☕️ Wanna chat?
 - 👉🏽 @ me on [Twitter](https://twitter.com/theroyakash) about anything.<br>
 - IG: https://instagram.com/theroyakash<br>
-- Send me an email at [hey@iamroyakash.com](mailto:hey@iamroyakash.com)
+- Send me an email at [hey@theroyakash.com](mailto:hey@theroyakash.com)
 - Join my discord [here](https://discord.gg/TXQyQYa) or just send a message [here](https://www.iamroyakash.com/contact)
 - or just add me on discord @theroyakash#5635
