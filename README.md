@@ -1,6 +1,5 @@
 # Roy Akash&mdash;@theroyakash 👋🏽
-
-theroyakash (born August 28, 1999) is a **self-taught** research [scientist](https://g.co/kgs/zzwfzC), with research in high performance algorithms, data structures, safe computer vision systems, intelligent human-computer interaction and beyond.
+I am a research [scientist](https://g.co/kgs/zzwfzC), in high performance algorithms, data structures, safe computer vision systems, intelligent human-computer interaction and beyond.
 
 ## What I'm doing?
 - I’m currently working on Fundamental computer science research in algorithms, data structures, parallel algorithms etc.
