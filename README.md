@@ -1,11 +1,11 @@
 # Roy Akash&mdash;@theroyakash 👋🏽
-I am a research [scientist](https://g.co/kgs/zzwfzC), in high performance algorithms, data structures, safe computer vision systems, intelligent human-computer interaction and beyond.
+I am a research [scientist](https://g.co/kgs/zzwfzC), in high performance algorithms, data structures, distributed systems and beyond.
 
 ## What I'm doing?
-- I’m currently working on Fundamental computer science research in algorithms, data structures, parallel algorithms etc.
-- I'm looking for collaborators (on C and Python > 3.9) on developing high performance tools in algorithms and data structures in AKDSFramework.
+- I’m currently working on fundamental computer science research in algorithms, data structures, parallel algorithms and distributed systems.
+- I am the author of Python Basics To get Started which was widely used by my peers to understand basic principals in Python language, has over 25000+ downloads across the world. I am currently writing a book on distributed systems which will be released some time in late 2022 to early 2023. Contact me for a draft version of the book.
+- I run a website called [algorithms.theroyakash.com](https://algorithms.theroyakash.com) which has huge collection of materials for FAANG and top startup's leetcode style coding interview questions and in-depth analysis along with C++ code. For some of the trickier questions a video explaination is also provided. I plan to expand the number of questions on the platform. This is a free initiative that I took. This website has more than a thousand unique weekly visitors.
 
-I am the author of several popular books in the fields of algorithms and computer programming. Python Basics To get Started is widely used to understand basic principals in Python language. I am currently writing a book on Deep Learning now named "Deep Learning and beyond" and also making an app to distribute deep learning material (videos and texts) for everyone to access for free.
 
 ## ☕️ Wanna chat?
 - 👉🏽 @ me on [Twitter](https://twitter.com/theroyakash) about anything.<br>
